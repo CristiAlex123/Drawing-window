@@ -1,1 +1,1 @@
-# Drawing-window
+This is an object-oriented C# abstract painting application. It empowers users to craft abstract artwork by generating random geometric shapes and applying colors. The program offers features for saving and printing artwork and computes ink requirements for printing using RGB to CMYK conversion. A user-friendly tool that demonstrates OOP principles while fostering creative expression.
